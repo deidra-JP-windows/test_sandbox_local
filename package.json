@@ -1,0 +1,22 @@
+{
+  "name": "test_sandbox_local",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deidra-JP-windows/test_sandbox_local.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deidra-JP-windows/test_sandbox_local/issues"
+  },
+  "homepage": "https://github.com/deidra-JP-windows/test_sandbox_local#readme",
+  "dependencies": {
+    "mongodb": "^5.7.0"
+  }
+}
